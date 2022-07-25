@@ -2,3 +2,5 @@ github.com/Yoga-Saputra/go-say-hello v1.5.0 h1:7YgSwsJePTbFPMaDqT0344l1eehciILa1
 github.com/Yoga-Saputra/go-say-hello v1.5.0/go.mod h1:Ths25L03fGYRVemU8xGra+qpCf9NOn0bWt2NJGZixd8=
 github.com/Yoga-Saputra/go-say-hello v1.6.0 h1:en/relb3GfNJN5wix0ls70pnTYxdV7p1Ri91XjmfR0c=
 github.com/Yoga-Saputra/go-say-hello v1.6.0/go.mod h1:Ths25L03fGYRVemU8xGra+qpCf9NOn0bWt2NJGZixd8=
+github.com/Yoga-Saputra/go-say-hello/v2 v2.0.0 h1:nH1blR/IqrXaPnhbhaAWxFYi3f3V7v3hHtLnadGiSDg=
+github.com/Yoga-Saputra/go-say-hello/v2 v2.0.0/go.mod h1:29vRxyCJhtENyqX3aLicuo32To+OpIzbR5Hg68mq02g=
